@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MDorukhan
 - 👀 I’m Sophomore CS student at Bilkent University
-- 🌱 I'm learning C++ and have experience in Java
+- 🌱 I'm learning C++ and I have experience in Java
 
 
 
